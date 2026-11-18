@@ -2,7 +2,7 @@ from collections import defaultdict
 
 
 def compare_periods(observations, start, end, *, region=None):
-    """Return observed totals and source coverage for two inclusive periods."""
+    """汇总两个周期内的观察值与来源覆盖数量。"""
     periods = ((start[0], start[1]), (end[0], end[1]))
     totals = [defaultdict(float), defaultdict(float)]
     sources = [defaultdict(set), defaultdict(set)]
