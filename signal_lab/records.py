@@ -18,3 +18,4 @@ class Observation:
     topic: str
     value: float
     region: str = "global"
+    signal: str = "reporting"

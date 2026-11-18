@@ -1,0 +1,10 @@
+[
+  {"observation_id":"c-001","source_id":"global-desk","observed_on":"2026-11-02","topic":"international-cooperation","value":4,"region":"global","signal":"reporting"},
+  {"observation_id":"c-002","source_id":"regional-review","observed_on":"2026-11-03","topic":"international-cooperation","value":3,"region":"east-asia","signal":"reporting"},
+  {"observation_id":"c-003","source_id":"audience-inbox","observed_on":"2026-11-05","topic":"international-cooperation","value":6,"region":"global","signal":"audience-questions"},
+  {"observation_id":"c-004","source_id":"global-desk","observed_on":"2026-11-04","topic":"climate-adaptation","value":5,"region":"global","signal":"reporting"},
+  {"observation_id":"c-005","source_id":"regional-review","observed_on":"2026-11-06","topic":"climate-adaptation","value":4,"region":"east-asia","signal":"regional-coverage"},
+  {"observation_id":"c-006","source_id":"audience-inbox","observed_on":"2026-11-06","topic":"climate-adaptation","value":3,"region":"southeast-asia","signal":"audience-questions"},
+  {"observation_id":"c-007","source_id":"audience-inbox","observed_on":"2026-11-07","topic":"digital-governance","value":8,"region":"global","signal":"audience-questions"},
+  {"observation_id":"c-008","source_id":"global-desk","observed_on":"2026-11-08","topic":"public-health","value":2,"region":"global","signal":"reporting"}
+]
